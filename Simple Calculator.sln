@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Simple Calculator", "Simple Calculator.vcxproj", "{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Debug|x64.ActiveCfg = Debug|x64
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Debug|x64.Build.0 = Debug|x64
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Debug|x86.Build.0 = Debug|Win32
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Release|x64.ActiveCfg = Release|x64
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Release|x64.Build.0 = Release|x64
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Release|x86.ActiveCfg = Release|Win32
+		{45E7D30B-66C6-4C01-9647-6A35B34FE2DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD593BC-6005-438B-8897-8FEAABEDFC28}
+	EndGlobalSection
+EndGlobal
