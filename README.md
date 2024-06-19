@@ -34,4 +34,4 @@ The program uses template functions to perform the four basic arithmetic operati
 ## How to Run
 
 1. Compile the program using a C++ compiler.
-2. Run the compiled program.
+2. Run the compiled program. (SimpleCalculator.cpp)
